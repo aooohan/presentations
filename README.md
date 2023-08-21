@@ -1,3 +1,4 @@
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## 版权信息
 
 本仓库内所有演示文稿的版权归 [李晗] 所有，并在[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)下授权。
